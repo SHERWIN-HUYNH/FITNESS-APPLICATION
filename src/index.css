@@ -1,0 +1,5 @@
+//Entry (point) for CSS 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
